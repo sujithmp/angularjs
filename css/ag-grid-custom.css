@@ -1,0 +1,26 @@
+
+/* ******** change header label color ***** */
+.ag-header-cell {
+    background-color: #f5f5f5;
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Align header lable center */
+.ag-header-cell-label {
+    align-items: center;
+    justify-content: center;
+}
+/* Change header background color */
+.ag-header-cell  {
+    background: border-box;
+}
+
+.ag-fresh .ag-row-even {
+    background-color: gainsboro !important;
+}
+
+.ag-fresh .ag-row:hover {
+    background-color: peachpuff !important;
+} 

@@ -21,7 +21,6 @@
                             </h3>
                         </div>
                         <div class="panel-body">
-
                             <div ag-grid="gridOptions" class="ag-fresh"   id="myGrid" style="height: 100%; width: 100%;"></div>
                         </div>
                     </div>
